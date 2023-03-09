@@ -88,7 +88,7 @@ public class PrestadorServico {
 
     @Override
     public String toString() {
-        return "\n-Nome: " + getNomeCompleto() + "\n-Data de Nascimento: " + getDataNascimento() + "\n-Telefone: " + getTelefone();
+        return "\n-Nome: " + getNomeCompleto() + "\n-Telefone: " + getTelefone();
     }
 }
 
